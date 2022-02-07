@@ -1,4 +1,4 @@
-package br.com.academiadoflutter.vakinha_mobile
+package com.example.vakinha_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 
